@@ -1,46 +1,54 @@
-# 🎮 Tres en Raya - Proyecto Java
+# 🎮 Tres en Raya (Triki / Tic Tac Toe)
 
-[![Java](https://img.shields.io/badge/Java-17+-orange.svg)](https://java.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue.svg)](https://github.com/JhonJairoVera/Tres-en-Raya-Tic-Tac-Toe-)
-[![License](https://img.shields.io/badge/Licencia-MIT-green.svg)](LICENSE)
-
-Un sistema completo del juego clásico Tres en Raya (Tic-Tac-Toe) implementado en Java con arquitectura profesional, interfaz de consola interactiva y inteligencia artificial.
+Juego clásico de **Tres en Raya (Triki)** desarrollado en **Java**, ejecutado por consola y basado en principios de **Programación Orientada a Objetos**.  
+El proyecto forma parte de la asignatura **Programación II** de la **Universidad de Pamplona**.
 
 ---
 
-## 📋 Tabla de Contenidos
-1. [Características](#-características)
-2. [Capturas](#-capturas)
-3. [Requisitos](#-requisitos-del-sistema)
-4. [Instalación](#-instalación)
-5. [Uso](#-uso-del-programa)
-6. [Estructura del Proyecto](#-estructura-del-proyecto)
-7. [Documentación Técnica](#-documentación-técnica)
-8. [Pruebas](#-pruebas)
-9. [Troubleshooting](#-solución-de-problemas)
-10. [Contribución](#-contribución)
-11. [Roadmap](#-roadmap)
-12. [Licencia](#-licencia)
+## 📌 Descripción del Proyecto
+
+Tres en Raya es un juego tradicional que se desarrolla en un tablero de **3x3**, donde dos jugadores se turnan para colocar sus símbolos (**X** y **O**) con el objetivo de completar una línea horizontal, vertical o diagonal.
+
+El sistema permite:
+- Juego **Jugador vs Jugador**
+- Juego **Jugador vs Computadora (IA básica)**
+- Validación completa de movimientos
+- Detección automática de ganador o empate
+- Interfaz de consola con colores ANSI
 
 ---
 
-## ✨ Características
+## 🏫 Información Académica
 
-### 🎮 **Funcionalidades del Juego**
-- ✅ **Dos modos de juego**: Jugador vs Jugador / Jugador vs Computadora
-- ✅ **IA de 3 niveles**: Fácil, Normal, Difícil
-- ✅ **Sistema de estadísticas**: Historial de partidas
-- ✅ **Interfaz de consola a color**: Experiencia visual mejorada
-- ✅ **Validación robusta**: Manejo completo de errores
-- ✅ **Guardado de progreso**: Persistencia de estadísticas
-
-### 💻 **Características Técnicas**
-- 🏗️ **Arquitectura MVC**: Modelo-Vista-Controlador
-- 🧩 **Programación Orientada a Objetos**: Herencia, polimorfismo, encapsulamiento
-- 📁 **Estructura de paquetes**: Organización modular
-- 🎨 **Patrones de diseño**: Strategy, Singleton, Factory
-- 🧪 **Código extensible**: Fácil de modificar y mejorar
+- **Universidad:** Universidad de Pamplona  
+- **Facultad:** Ingenierías y Arquitecturas  
+- **Programa:** Ingeniería de Sistemas  
+- **Asignatura:** Programación II  
+- **Semestre:** Segundo Semestre – 2025  
 
 ---
 
-## 📸 Capturas
+## 👨‍💻 Equipo de Desarrollo
+
+| Rol | Nombre |
+|---|---|
+| **Developer** | Jhon Jairo Vera Acevedo |
+| **Developer** | Aylin Yuleni Estupiñán González |
+| **Scrum Master** | Danna Sofia Clavijo Plata |
+| **Product Owner** | Laura Sofía Monterrey Gutiérrez |
+
+---
+
+## 🛠️ Tecnologías Utilizadas
+
+- **Lenguaje:** Java SE 17 (JDK 17 LTS)
+- **IDE:** IntelliJ IDEA Community Edition
+- **Paradigma:** Programación Orientada a Objetos (POO)
+- **Control de versiones:** Git
+- **Repositorio:** GitHub
+- **Sistema Operativo:** Windows / Linux / macOS
+
+---
+
+## 📁 Estructura del Proyecto
+
