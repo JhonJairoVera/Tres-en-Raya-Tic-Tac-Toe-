@@ -193,11 +193,5 @@ Universidad de Pamplona – 2025
 
 ---
 
-Si quieres, también puedo:
-✔ Ajustarlo a **README más corto**  
-✔ Traducirlo a **inglés**  
-✔ Agregar **badges de GitHub**  
-✔ Adaptarlo a **README profesional tipo empresa**
 
-Tú manda bro 💪
 
